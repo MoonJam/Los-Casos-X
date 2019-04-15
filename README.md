@@ -1,4 +1,4 @@
-# Los-Casos-X
+# Los Casos X
 ## Introduction
 The socio-cultural phenomenon of UFO sightings has fascinated me since I could read. In fact, I'm fairly sure I read through all of the UFO books available at the Riverside Library as a newly literate boy in the early 1990s. A cursory exploration of the subculture's media reveals a consistent thread of knowing data exists on the subject, but that the data are either impossible to use or simply sit unused.
 
