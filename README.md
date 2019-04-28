@@ -12,4 +12,5 @@ At this point, this project consists of the following:
 * Exploratory data analysis conducted in R and rendered as a Markdown document for easy-consumption.
 
 ## Progress
-[Check out where things are here.](./nuforc_eda.md)
+[Check out the current state of my rendered EDA here.](./nuforc_eda.md)
+[Check out the actual R code for the same EDA here.](./nuforc_eda.Rmd)
